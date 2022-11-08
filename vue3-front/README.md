@@ -35,3 +35,6 @@
 一个 *.vue 文件可以包含多个 <style> 标签。
 
 <style> 标签可以通过 scoped 或 module attribute (更多详情请查看 SFC 样式特性) 将样式封装在当前组件内。多个不同封装模式的 <style> 标签可以在同一个组件中混
+
+
+[学习Vue3 第四章（模板语法 & vue指令）](https://xiaoman.blog.csdn.net/article/details/122773486?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-122773486-blog-122771007.pc_relevant_3mothn_strategy_and_data_recovery&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-122773486-blog-122771007.pc_relevant_3mothn_strategy_and_data_recovery&utm_relevant_index=1s)

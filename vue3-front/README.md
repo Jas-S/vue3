@@ -1,3 +1,9 @@
+# Vite启动
+```shell
+cd vue3-front
+npm run dev
+```
+
 # Vite目录
 ## public 该目录中的内容不会被编译，可以存放静态资源。
 ## src 存放vue源码
